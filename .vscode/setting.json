@@ -1,0 +1,12 @@
+{
+    "editor.tabSize": 2, 
+
+    "files.trimTrailingWhitespace": true, 
+
+    "files.exclude": { 
+        "**/.git": true, 
+        "**/.svn": true, 
+        "**/.DS_Store": true, 
+        "**/.idea": true 
+    }
+}
